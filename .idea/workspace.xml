@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="08b762fa-82ad-4124-b1c3-8a389f5f05f7" name="Changes" comment="Learn how to deploy Storybook online">
+      <change afterPath="$PROJECT_DIR$/.github/workflows/chromatic.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="tutorial/screens" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2OI6YXmJEoCc9IXx4C5ULKJtWcF" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "deploy",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Workspace/Tutorials/React/Storybook/taskbox",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "yarn",
+    "prettierjs.PrettierConfiguration.Package": "C:\\Workspace\\Tutorials\\React\\Storybook\\taskbox\\node_modules\\prettier",
+    "show.migrate.to.gradle.popup": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="npm.build-storybook">
+    <configuration name="build-storybook" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build-storybook" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="storybook" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="storybook" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.build-storybook" />
+        <item itemvalue="npm.storybook" />
+        <item itemvalue="npm.storybook" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08b762fa-82ad-4124-b1c3-8a389f5f05f7" name="Changes" comment="" />
+      <created>1681235796133</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681235796133</updated>
+      <workItem from="1681235797197" duration="2789000" />
+      <workItem from="1681313791768" duration="8334000" />
+      <workItem from="1681334735188" duration="2899000" />
+      <workItem from="1681405540216" duration="11284000" />
+      <workItem from="1681481523845" duration="1038000" />
+    </task>
+    <task id="LOCAL-00001" summary="Assemble a composite component out of simpler components">
+      <created>1681321911245</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681321911245</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Wire in data&#10;Learn how to wire in data to your UI component">
+      <created>1681338322105</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681338322105</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Learn how to deploy Storybook online">
+      <created>1681481840218</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681481840218</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Assemble a composite component out of simpler components" />
+    <MESSAGE value="Wire in data&#10;Learn how to wire in data to your UI component" />
+    <MESSAGE value="Learn how to deploy Storybook online" />
+    <option name="LAST_COMMIT_MESSAGE" value="Learn how to deploy Storybook online" />
+  </component>
+</project>
