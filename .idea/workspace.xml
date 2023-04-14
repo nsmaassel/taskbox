@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08b762fa-82ad-4124-b1c3-8a389f5f05f7" name="Changes" comment="Learn how to deploy Storybook online">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/chromatic.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Task.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Task.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +16,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="tutorial/screens" />
+        <entry key="$PROJECT_DIR$" value="tutorial/visual-testing" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -38,7 +37,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "deploy",
+    "git-widget-placeholder": "change-task-background",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Workspace/Tutorials/React/Storybook/taskbox",
     "node.js.detected.package.eslint": "true",
@@ -92,7 +91,7 @@
       <workItem from="1681313791768" duration="8334000" />
       <workItem from="1681334735188" duration="2899000" />
       <workItem from="1681405540216" duration="11284000" />
-      <workItem from="1681481523845" duration="1038000" />
+      <workItem from="1681481523845" duration="1563000" />
     </task>
     <task id="LOCAL-00001" summary="Assemble a composite component out of simpler components">
       <created>1681321911245</created>
